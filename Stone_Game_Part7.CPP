@@ -1,6 +1,6 @@
 class Solution {
 public:
-        // diff in their scores can be written as
+        //// diff in their scores can be written as
        a1 - (b1 - (a2 - b2))
 
     int dp[1002][1002];
